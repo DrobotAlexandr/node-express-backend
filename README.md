@@ -6,4 +6,4 @@
 2. cd node-express-backend
 3. npm i
 4. npm run dev
-5. Откройте в браузере http://localhost:3000/
+5. Откройте в браузере http://localhost:3550/

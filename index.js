@@ -5,7 +5,7 @@ const http = require('http');
 
 const {routes} = require('./src/routes');
 
-const PORT = 3000;
+const PORT = 3550;
 
 mongoose.connect(
     'mongodb://localhost:27017/mevnshop',
